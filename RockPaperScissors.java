@@ -1,7 +1,7 @@
-/*--------------PROJECTS
+/*
 
 
-    // Rock Paper Scissors Game - Follow the instructions below:
+    // Rock Paper Scissors Game - 
 
         General Instructions:
 
@@ -11,7 +11,7 @@
         -Once complete, upload your java file.
 
 
-        NOTES: In the game Rock Paper Scissors, two players simultaneously choose one
+        "HOW TO PLAY ROCK PAPER SCISSORS": In the game Rock Paper Scissors, two players simultaneously choose one
         of the three options;
             rock,
             paper, or
@@ -22,11 +22,9 @@
             -Scissors beats paper, because scissors can cut paper.
             -Paper beats rock, because a piece of paper can cover a rock.
 
-        Create a game in which the computer randomly chooses rock, paper, or scissors.
-        Let the user enter a number 1, 2, or 3, each representing one of the three choices.
-        Then, determine the winner.
+       
 
-    //
+ 
 
 */
 
